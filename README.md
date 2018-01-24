@@ -1,2 +1,2 @@
-# hello-world-phyton
+# hello-world-python
 Let's start
